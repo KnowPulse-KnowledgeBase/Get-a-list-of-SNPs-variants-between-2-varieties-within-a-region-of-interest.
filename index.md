@@ -3,7 +3,7 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "Lesson Title"
+title: "How to get a list of SNPs/variants between 2+ varieties within a region of interest"
 
 # Single Sentence purpose for this lesson.
 short-purpose: "This tutorial is aiming to guide our pulse crop researchers through the procedure of getting a list of SNPs/varieties between 2+ varieties within a region of interest. In this lesson, you will learn how to search for your interested genotypic data and how to look up the genotype matrix in your selected region."
