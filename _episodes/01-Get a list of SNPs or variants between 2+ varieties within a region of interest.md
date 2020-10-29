@@ -1,17 +1,15 @@
- ---
-title: "Creating an episode"
+---
+title: "Get a list of "
 teaching: 10
 exercises: 20
 questions:
 - "How to find genotypic data?"
 - "How to search for sequence variants between two selected germplasm?"
-- "How to view genome within a given region?"
+- "How to view genome within a given region??"
 objectives:
-- "Add an episode to your lesson"
+- "Providing a step by step demonstration on how to"
 keypoints:
-- ""
-- ""
-- "
+
 ---
 
 ## Step #1: Go to the Lentil Genotype Matrix Tool
