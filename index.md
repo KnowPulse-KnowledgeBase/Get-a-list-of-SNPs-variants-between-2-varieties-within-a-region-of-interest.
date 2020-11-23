@@ -3,10 +3,10 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How to get a list of SNPs/variants between 2+ varieties within a region of interest"
+title: "How to get a list of SNPs/variants between 2 or more varieties within a region of interest"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This tutorial is aiming to guide our pulse crop researchers through the procedure of getting a list of SNPs/varieties between 2+ varieties within a region of interest. In this lesson, you will learn how to search for your interested genotypic data and how to look up the genotype matrix in your selected region."
+short-purpose: "This tutorial is aiming to guide our pulse crop researchers through the procedure of getting a list of SNPs/varieties between 2 or more varieties within a region of interest. In this lesson, you will learn how to search for your interested genotypic data and how to look up the genotype matrix in your selected region."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
@@ -17,7 +17,7 @@ maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+why: "This tutorial is aiming to guide our pulse crop researchers through the search of their interested region or compare between two interested germplasm. The genotypic matrix tool allows researchers to find a list of genotypic data of their interested germplasm, which can be a useful tool for their own breeding programs."
 
 # A short list of items researchers will learn in this lesson.
 learn:
