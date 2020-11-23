@@ -3,7 +3,6 @@ title: "How to compare two germplasm and how to find sequence varients in the in
 teaching: 10
 exercises: 10
 questions:
-
 - "How to search for sequence variants between two selected germplasm?"
 - "How to view genome within a given region?"
 objectives:
