@@ -1,15 +1,14 @@
 ---
 title: "How to use lentil genotypic matrix tool to find genotypic data for your reference germplasm "
-teaching: 10
-exercises: 10
+teaching: 5
+exercises: 5
 questions:
 - "How to find genotypic data for the given germplasm?"
-- "How to search for sequence variants between two selected germplasm?"
-- "How to view genome within a given region?"
-objectives:
-- "Providing a step by step demonstration on how to"
-keypoints:
 
+objectives:
+- "Providing a step by step demonstration on how to search from genotypic matrix tool"
+keypoints:
+- Log in KnowPulse with your user account before searching.
 ---
 ## Go to the Lentil Genotype Matrix Tool
 When you land on the Knowpulse home page https://knowpulse.usask.ca, click on "Genotypes" at the top of the page, this will scroll you down to the genotypes section. Then you can click on "Lentil Genotypes" to access the Lentil Genotype Matrix Tool on the same page.
