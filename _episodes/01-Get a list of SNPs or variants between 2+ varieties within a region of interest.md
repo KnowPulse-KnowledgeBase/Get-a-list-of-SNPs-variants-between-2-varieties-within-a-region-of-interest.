@@ -1,7 +1,7 @@
 ---
 title: "Get a list of "
 teaching: 10
-exercises: 20
+exercises: 10
 questions:
 - "How to find genotypic data for the given germplasm?"
 - "How to search for sequence variants between two selected germplasm?"
