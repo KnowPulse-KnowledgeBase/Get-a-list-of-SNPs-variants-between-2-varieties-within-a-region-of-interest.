@@ -7,8 +7,8 @@ questions:
 - "How to search for sequence variants between two selected germplasm?"
 - "How to view genome within a given region?"
 objectives:
-- "Providing a step by step demonstration on how to"
-keypoints:
+- "Providing a step by step demonstration on how to compare two germplasm and how to find sequence varients in an interested region."
+keypoints:the
 - Log in KnowPulse with your user account before searching.
 ---
 
@@ -25,6 +25,3 @@ The second section of the filter criteria available for the genotype matrix allo
 In our example, the region of interest is `LcChr4:1875000-2075000`. To enter this, we place `LcChr4` for the `Sequence Name`, `1875000` for the start position and 2075000 for the end position.
 ![Screenshot of main code listing](../fig/gmatrix-poly-region-4.png)
 
-## Step #5: (Optionally): Restrict to specific variants.
-Say you are interested in a specific set of variants and would like to see that subset. You can enter the specific variant names by expanding the `Additional Filter criteria` section then clicking Search.
-![Screenshot of main code listing](../fig/gmatrix-poly-region-5.png)
