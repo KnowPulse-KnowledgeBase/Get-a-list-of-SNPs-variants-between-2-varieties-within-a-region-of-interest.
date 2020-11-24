@@ -12,7 +12,7 @@ keypoints:
 
 
 ## Go to the Lentil Genotype Matrix Tool
-When you land on the Knowpulse home page https://knowpulse.usask.ca, click on "Genotypes" at the top of the page, this will scroll you down to the genotypes section. Then you can click on "Lentil Genotypes" to access the Lentil Genotype Matrix Tool on the same page.
+When you land on the Knowpulse home page https://knowpulse.usask.ca click on "Genotypes" at the top of the page, this will scroll you down to the genotypes section. Then you can click on "Lentil Genotypes" to access the Lentil Genotype Matrix Tool on the same page.
 ![Screenshot of main code listing](../fig/gmatrix-poly-region.front-1.png)
 
 ## Find genotypic data for your reference germplasm
