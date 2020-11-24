@@ -17,7 +17,7 @@ maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "This tutorial is aiming to guide our pulse crop researchers through the search of their interested region or compare between two interested germplasm. The genotypic matrix tool allows researchers to find a list of genotypic data of their interested germplasm, which can be a useful tool for their own breeding programs."
+why: "This tutorial is aiming to guide our pulse crop researchers through the search of their interested region or compare between two interested germplasm. The genotypic matrix tool allows researchers to find a list of genotypic data of their interested germplasm, which can be helpful for their own breeding programs."
 
 # A short list of items researchers will learn in this lesson.
 learn:
