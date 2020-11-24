@@ -6,7 +6,7 @@ questions:
 - "How to search for sequence varients between two selected germplasm?"
 - "How to view genome within a given region?"
 objectives:
-- "Providing a step by step demonstration on how to compare two germplasm and how to find sequence varients in an interested region"
+- "Providing a step by step demonstration on how to compare two germplasm and how to find sequence varients in an interested region."
 keypoints:
 - Log in KnowPulse with your user account before searching.
 ---
